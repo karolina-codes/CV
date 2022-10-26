@@ -4,7 +4,7 @@
 
 ### Contact/Links
 
-[[LinkedIn]](https://www.linkedin.com/in/karolina-j-40655b209/) | [[Blog]](https://medium.com/@karolinacodes)
+[LinkedIn](https://www.linkedin.com/in/karolina-j-40655b209/) | [Blog](https://medium.com/@karolinacodes)
 
 </div>
 
