@@ -55,3 +55,4 @@ I began my coding journey as a self-led learner by using resources from the inte
 - Love going to see ballet performances, inspiring to see the beautiful results of such hardwork & dedication 🩰
 - Winding down with some yoga is always a treat 🧘‍♀️
 - A guilty pleasure is listening to victim-centered true crime podcasts, a good one to start with is Voices for Justice 🎧
+- Watching F1, zoom zoom 🏎️
