@@ -88,9 +88,14 @@ I have been a self-led learner ever since I can remember as I've always sought o
 I began my coding journey by using online resources to teach myself HTML, CSS and some JS and soona after I began to complete small projects on Frontend Mentor. Later on, I began exploring Ruby and started completing algorithmic problems on websites such as Leetcode, CodeWars and CoderByte. As I increased my skills, my confidence grew and I applied to the Makers Bootcamp. Makers itself places a huge emphasis on self-led learning as the bootcamp is more about learning how to learn rather than strictly learning syntax and technologies; this experience has solidified my approach to self-led learning and prepared me for a career which requires life-long learning and I couldn't be more excited to start!
 
 ## <a name="interests">What makes me happy (Interests)</a> 🥰
+<ul>
+🧗‍♀️ Bouldering is the first sport I truly enjoyed and it's probably because of the amazing community surrounding it!</br></br>
 
-- Bouldering is the first sport I truly enjoyed and it's probably because of the amazing community surrounding it 🧗‍♀️
-- Love going to see ballet performances, inspiring to see the beautiful results of such hardwork & dedication 🩰
-- Winding down with some yoga is always a treat 🧘‍♀️
-- A guilty pleasure is listening to victim-centered true crime podcasts, a good one to start with is [Voices for Justice](https://www.voicesforjusticepodcast.com/podcast) 🎧
-- Watching F1, zoom zoom 🏎️
+🩰 Love going to see ballet performances, inspiring to see the results of such hardwork & dedication.</br>
+
+🧘‍ Winding down with some yoga is always a treat!</br>
+
+🎧 A guilty pleasure is listening to victim-centered true crime podcasts, a good one to start with is [Voices for Justice](https://www.voicesforjusticepodcast.com/podcast).</br> 
+
+🏎️ Watching F1, zoom zoom.
+</ul>
