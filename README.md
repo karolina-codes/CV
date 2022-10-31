@@ -55,8 +55,13 @@ A 16 week software engineering bootcamp where I was taught coding principles, te
 - During group projects, I began to use agile practices such as **sprints, tickets and stand-ups/retros**; the benefits were immense as it allowed the team to work together seamlessly and consistently produce new features at a fast pace.  
 
 **University of Essex (October 2019 to June 2022)**</br> 
-BA (Hons) in Social Anthropology - **1st**
+BA (Hons) in Social Anthropology - 1st</br>
 
+ <ins>Activities & Achievements:</ins>
+- President, Vice-President & Welfare Officer at Essex Student Action for Refugees
+- University of Sanctuary Representative
+- Peer Mentor for Sociology Department
+- Dean's List for Academic Excellence 
 
 ## What I'm great at (Skills) 🌱
 
@@ -87,5 +92,5 @@ I began my coding journey by using online resources to teach myself HTML, CSS an
 - Bouldering is the first sport I truly enjoyed and it's probably because of the amazing community surrounding it 🧗‍♀️
 - Love going to see ballet performances, inspiring to see the beautiful results of such hardwork & dedication 🩰
 - Winding down with some yoga is always a treat 🧘‍♀️
-- A guilty pleasure is listening to victim-centered true crime podcasts, a good one to start with is Voices for Justice 🎧
+- A guilty pleasure is listening to victim-centered true crime podcasts, a good one to start with is [Voices for Justice](https://www.voicesforjusticepodcast.com/podcast) 🎧
 - Watching F1, zoom zoom 🏎️
