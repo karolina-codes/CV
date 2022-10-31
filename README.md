@@ -10,9 +10,9 @@
 
 Hey, my name is Karolina. I'm a [Makers Academy](https://makers.tech/) graduate (Sept 2022).
 
-I fell in love with coding in 2020 in the middle of my Social Anthroplogy degree and since then I've been working towards beginning my career as a software engineer. What excites me about creating software is the constant need for elegant problem-solving and life-long learning, it means nothing will ever be boring and there will always be a cool new technology to get stuck into on the horizon! The idea of creating something that helps people in their daily-life and is potentially life-changing is also incredibly exciting and motivates me to constantly evolve and aim for greatness.
+I fell in love with coding in 2020 in the middle of my Social Anthroplogy degree and since then I've been working towards beginning my career as a software engineer. What excites me about creating software is the constant need for elegant problem-solving and potentially helping people in their daily-lives is an incredibly rewarding aspect as well. Equally, I'm looking forward to the life-long learning that comes with it, there will always be a cool new technology to get stuck into on the horizon! 
 
-I strive to become an engineer that produces simple but great-quality code in collaboration with others which is why I am currently looking for my first software engineer role to take on new challenges at a company with the same values as mine.
+Overall, I strive to become an engineer that produces simple but great-quality code.  This is why I am currently looking for my first software engineer role to work in collaboration with others at a company with the same values as mine.
 
 ## <a name="stack">Tech Stack</a> 📚
 
@@ -37,8 +37,8 @@ I strive to become an engineer that produces simple but great-quality code in co
 **Trustee (Voluntary) | Student Action for Refugees (November 2020 to Present)**
 - Communicated with the student network and collected feedback on how to improve our operational strategy. 
 - Led conference events and chaired Q&A discussions. 
-- Strategised in a team on how to improve our relationship with the student network to ensure we are consistently acting in a way that reflects our core values.
-- Made decisions as part of multiple panels tasked with recruiting staff, trustees and improving our marketing strategy and creative identity.
+- Strategised in a team on how to improve our relationship with the student network to ensure we consistently acted in a way that reflected our core values.
+- Made decisions as part of multiple panels tasked with recruiting staff, trustees and improving our marketing strategy and brand identity.
 
 **Patient Co-ordinator | Randox Laboratories (July 2021 to March 2022)** 
 - Empathised with patients and clearly communicated to make them feel at ease in the clinic. 
@@ -67,13 +67,13 @@ BA (Hons) in Social Anthropology - 1st</br>
 
 ### Project management & leading with empathy 💛
 
-I managed a team of 13 people to complete and present multiple media projects during my final year of university. All of our assignments were graded as firsts and I received even higher marks for my project management skills with feedback from my peers stating that they were grateful for how organised I was as it made their work easier to do. It was a really demanding but rewarding experience as it taught me scheduling and time-management, leadership, peer-review and above all communication skills. 
+I managed a team of 13 people to complete and present multiple media projects during my final year of university. All of our assignments were graded as firsts and I received even higher marks for my project management skills. I also received feedback from my peers which stated that they were grateful for how organised I was as it made their work easier to complete. It was a really demanding but rewarding experience as it taught me scheduling and time-management, leadership, peer-review and above all communication skills. 
 
-An aspect of project management that I did not foresee before I took on the role was how much of the role was motivating others and building their confidence to complete their tasks. Therefore, I decided early on in the role that I wanted to lead with empathy and ensure that my team members always felt heard and could come to me with any problems that affected their ability to complete assignments, this was really important as university can be very stressful and many people have personal problems that make things even more difficult.
+An aspect of project management that I did not foresee was how much of the role was motivating others and building their confidence to complete their tasks. Therefore, I decided early on in the role that I wanted to lead with empathy and ensure that my team members always felt heard and could come to me with any problems that affected their ability to complete assignments, this was really important as university can be very stressful and many people have personal problems that make things even more difficult.
 
 ### Mentoring 🤓
 
-Mentoring has been something close to my heart for a long time, I sought out the opportunity to be a peer-mentor at university and kept in touch with 20 people during the year to ensure they had the support they needed to succeed. I also took up the opportunity to be a mentor during my time at Makers Academy which was a really special experience as I was always very grateful to my mentors when I began to code so it felt great to give back! I'd love to keep mentoring people throughout my career once I've gained more technical expertise as I believe it's super important to share knowledge and help others succeed.
+Mentoring has been something close to my heart for a long time, I sought out the opportunity to be a peer-mentor at university and kept in touch with 20 people during the year to ensure they had the support they needed to succeed. I also took up the opportunity to be a mentor during my time at Makers Academy; this was a really special experience as I am very grateful to my mentors that guided me when I began to code so it felt great to give back! I'd love to keep mentoring people throughout my career once I've gained more technical expertise as I believe it's super important to share knowledge and help others succeed.
 
 ### Analytical thinker & problem solver 🧠
 
