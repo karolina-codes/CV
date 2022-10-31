@@ -1,9 +1,9 @@
 <div align="center">
 
 # Karolina Joksaite
+[Tech Stack](#stack) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests)
 
 ### Contact/Links
-
 [LinkedIn](https://www.linkedin.com/in/karolina-j-40655b209/) | [Blog](https://medium.com/@karolinacodes) | [Email](mailto:k.joksaite00@gmail.com)
 
 </div>
@@ -14,7 +14,7 @@ I fell in love with coding in 2020 in the middle of my Social Anthroplogy degree
 
 I strive to become an engineer that produces simple but great-quality code in collaboration with others which is why I am currently looking for my first software engineer role to take on new challenges at a company with the same values as mine.
 
-## Tech Stack 📚
+## <a name="stack">Tech Stack</a> 📚
 
 - JavaScript & currently learning TypeScript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Sinatra, RSpec)
@@ -22,7 +22,7 @@ I strive to become an engineer that produces simple but great-quality code in co
 - HTML, CSS, SASS & Bootstrap
 - Git
 
-## Projects 👩‍💻
+## <a name="projects">Projects</a> 👩‍💻
 
 | Name                                                             | Description                                                                                                                                                                       | Technologies                                                                  |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ I strive to become an engineer that produces simple but great-quality code in co
 | [MakersBnb](https://github.com/karolina-codes/makersbnb)         | An airbnb clone which was my first introduction to using agile methodologies such as scrum sprints, standups and retros                                                           | Ruby, Rspec, Sinatra, CSS3, HTML5, PostgreSQL                                 |
 | [Bank Tech Test](https://github.com/karolina-codes/bank-test)    | A tech test which demonstrates my **test-driven** implementation of OOP principles such as abstraction and encapsulation.                                                             | JavaScript, Jest                                                              |
 
-## Work Experience 🤠
+## <a name="experience">Work Experience</a> 🤠
 
 **Trustee (Voluntary) | Student Action for Refugees (November 2020 to Present)**
 - Communicated with the student network and collected feedback on how to improve our operational strategy. 
@@ -44,7 +44,7 @@ I strive to become an engineer that produces simple but great-quality code in co
 - Empathised with patients and clearly communicated to make them feel at ease in the clinic. 
 - Followed a stringent protocol and created an organised sterile environment to process antigen tests.
 
-## My Education (so far) 👩‍🎓
+## <a name="education">My Education (so far)</a> 👩‍🎓
 
 **Makers Academy (June to September 2022)**</br> 
 A 16 week software engineering bootcamp where I was taught coding principles, technologies and agile practices.
@@ -63,7 +63,7 @@ BA (Hons) in Social Anthropology - 1st</br>
 - Peer Mentor for Sociology Department
 - Dean's List for Academic Excellence 
 
-## What I'm great at (Skills) 🌱
+## <a name="skills">What I'm great at (Skills)</a> 🌱
 
 ### Project management & leading with empathy 💛
 
@@ -87,7 +87,7 @@ I have been a self-led learner ever since I can remember as I've always sought o
 
 I began my coding journey by using online resources to teach myself HTML, CSS and some JS and soona after I began to complete small projects on Frontend Mentor. Later on, I began exploring Ruby and started completing algorithmic problems on websites such as Leetcode, CodeWars and CoderByte. As I increased my skills, my confidence grew and I applied to the Makers Bootcamp. Makers itself places a huge emphasis on self-led learning as the bootcamp is more about learning how to learn rather than strictly learning syntax and technologies; this experience has solidified my approach to self-led learning and prepared me for a career which requires life-long learning and I couldn't be more excited to start!
 
-## What makes me happy (Interests) 🥰
+## <a name="interests">What makes me happy (Interests)</a> 🥰
 
 - Bouldering is the first sport I truly enjoyed and it's probably because of the amazing community surrounding it 🧗‍♀️
 - Love going to see ballet performances, inspiring to see the beautiful results of such hardwork & dedication 🩰
