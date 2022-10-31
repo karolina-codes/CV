@@ -1,11 +1,11 @@
 <div align="center">
 
 # Karolina Joksaite
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-j-40655b209/)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karolinacodes)
+
 [Tech Stack](#stack) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests)
-
-### Contact/Links
-[LinkedIn](https://www.linkedin.com/in/karolina-j-40655b209/) | [Blog](https://medium.com/@karolinacodes) | [Email](mailto:k.joksaite00@gmail.com)
-
 </div>
 
 Hey, my name is Karolina. I'm a [Makers Academy](https://makers.tech/) graduate (Sept 2022).
