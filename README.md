@@ -10,7 +10,7 @@
 
 Hey, my name is Karolina. I'm a [Makers Academy](https://makers.tech/) graduate (Sept 2022).
 
-I fell in love with coding in 2020 in the middle of my Social Anthroplogy degree and since then I've been working towards beginning my career as a software engineer. What excites me about creating software is the constant need for elegant problem-solving and potentially helping people in their daily-lives is an incredibly rewarding aspect as well. Equally, I'm looking forward to the life-long learning that comes with it, there will always be a cool new technology to get stuck into on the horizon! 
+I fell in love with coding in 2020 in the middle of my Social Anthropology degree and since then I've been working towards beginning my career as a software engineer. What excites me about creating software is the constant need for elegant problem-solving and potentially helping people in their daily-lives is an incredibly rewarding aspect as well. Equally, I'm looking forward to the life-long learning that comes with it, there will always be a cool new technology to get stuck into on the horizon! 
 
 Overall, I strive to become an engineer that produces simple but great-quality code.  This is why I am currently looking for my first software engineer role to work in collaboration with others at a company with the same values as mine.
 
